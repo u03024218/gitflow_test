@@ -1,4 +1,4 @@
-package dk.nversion;
+package dk.nversion ;
 
 import java.io.Serializable;
 import org.apache.jmeter.protocol.java.sampler.AbstractJavaSamplerClient;
